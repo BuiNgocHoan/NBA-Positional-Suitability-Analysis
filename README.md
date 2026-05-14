@@ -49,9 +49,18 @@ The model effectively identified the "blurring" boundaries between SF, PF, and S
 
 ## Acknowledgements & Contributors
 
-**Project Authors (Data Science Students):**
-- Doan Nhat Hung
-- Bui Ngoc Hoan
+### Project Authors
+- **Doan Nhat Hung**
+- **Bui Ngoc Hoan**
 
-**Project Supervisors / Advisors:**
-- **Dr. Nguyen Gia Tuan Anh** - **B.Sc. Tran Quoc Khanh** *Faculty of Information Science and Engineering, University of Information Technology (UIT - VNU-HCM)*
+### Academic Supervisors & Course Instructors
+
+#### DS108: Data Preprocessing and Dataset Construction
+- **PhD. Nguyen Gia Tuan Anh**
+- **Tran Quoc Khanh** (Ph.D. Candidate at NUS)
+
+#### DS102: Statistical Machine Learning
+- **PhD. Duong Ngoc Hao**
+- **PhD. Nguyen Luu Thuy Ngan**
+
+*Faculty of Information Science and Engineering, University of Information Technology (UIT - VNU-HCM)*

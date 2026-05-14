@@ -40,3 +40,18 @@ The project highlights the transition in modern basketball, where "hybrid roles"
 │   ├── NBA_Final_Report.pdf               # Detailed academic report (IEEE format)
 │   └── Project_Presentation.pdf           # Presentation slides
 └── README.md
+```
+
+## Results
+The SVM model achieved a stable classification performance, particularly in distinguishing clear roles like Center (C) and Point Guard (PG) with high precision (>80%).
+
+The model effectively identified the "blurring" boundaries between SF, PF, and SG positions, reflecting the modern "hybrid" tactical trend in the NBA.
+
+## Acknowledgements & Contributors
+
+**Project Authors (Data Science Students):**
+- Doan Nhat Hung
+- Bui Ngoc Hoan
+
+**Project Supervisors / Advisors:**
+- **Dr. Nguyen Gia Tuan Anh** - **B.Sc. Tran Quoc Khanh** *Faculty of Information Science and Engineering, University of Information Technology (UIT - VNU-HCM)*
